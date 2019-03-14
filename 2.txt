@@ -1,0 +1,21 @@
+git config --global user.name "Name"
+git config --global user.email "emailid"
+
+git config --list
+
+git init
+
+git clone https://github.com/chaitanyagr/test06019.git
+
+check if repository has been downloaded
+cd C:/Users/chait/
+
+git add 2.txt
+
+git commit -m "2.txt"
+
+git remote add origin https://github.com/chaitanyagr/test06019.git
+
+git push origin master
+
+git push https://github.com/chaitanyagr/test140319.git
